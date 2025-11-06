@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: athul/waka-readme@master 
         with:
-          WT_token: ${{ secrets.WT_token }}
+          WT_TOKEN: ${{ secrets.WT_TOKEN }}
