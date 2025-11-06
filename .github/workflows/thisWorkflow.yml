@@ -11,7 +11,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: opabiniafanclub/waka-readme@master 
+      - uses: OpabiniaFanClub/waka-readme@master 
         with:
           WT_TOKEN: ${{ secrets.WT_TOKEN }}
           GT_TOKEN: ${{ secrets.GT_TOKEN }}
