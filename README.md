@@ -1,1 +1,2 @@
-just a funny site
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
